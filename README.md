@@ -17,3 +17,6 @@ TODO add test step e.g.:
 * in build step, set latest link to most recently built executable
 * in test step, get executable that latest link points to
 * run tests with executable
+
+TODO also scan: 
+* http://www.sbcl.org/asdf/ / https://common-lisp.net/project/asdf/asdf.html
