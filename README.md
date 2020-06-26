@@ -18,5 +18,9 @@ TODO add test step e.g.:
 * in test step, get executable that latest link points to
 * run tests with executable
 
-TODO also scan: 
+TODO scan: 
 * http://www.sbcl.org/asdf/ / https://common-lisp.net/project/asdf/asdf.html
+
+TODO:
+* edit build script to remove old executables
+* devise scheme to remove old executables and keep certain ones -- perhaps look into and use something like artifactory
